@@ -1,0 +1,19 @@
+# Excel temporary files
+~$*
+*.tmp
+
+# Python scripts used for data generation
+*.py
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary analysis files
+temp_*.xlsx
+*_CORREGIDO.xlsx
+*_CARGADO.xlsx
+
+# IDE files
+.vscode/
+.idea/
